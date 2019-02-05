@@ -1,0 +1,18 @@
+{
+  "name": "ts-app",
+  "version": "1.0.0",
+  "description": "\"This For Testing\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codecorneres/size-auditor-report.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "size-audit-report": "^1.0.0"
+  }
+}
